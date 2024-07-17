@@ -1,0 +1,5 @@
+if(EXISTS "C:/Users/charl/CLionProjects/TP2/cmake-build-debug/tests/testsAll[1]_tests.cmake")
+  include("C:/Users/charl/CLionProjects/TP2/cmake-build-debug/tests/testsAll[1]_tests.cmake")
+else()
+  add_test(testsAll_NOT_BUILT testsAll_NOT_BUILT)
+endif()

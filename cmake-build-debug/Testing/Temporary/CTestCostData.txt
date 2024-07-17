@@ -1,0 +1,15 @@
+Graphe.constructeur 44 0.000344673
+Graphe.constructeur_throw 1 0.0127251
+GrapheTest.resize 42 0.000339443
+GrapheTest.nom 27 0.0005552
+GrapheTest.numeroDeLaVille 17 0.000859947
+GrapheTest.sommetExiste 19 0.00079021
+GrapheTest.ajouterArc 19 0.000812758
+GrapheTest.getNumeroSommet 17 0.000883235
+GrapheTest.enleverArc 15 0.00099
+GrapheTest.listerSommets 16 0.000993144
+GrapheTest.getPonderation 12 0.00118488
+ReseauInterurbain.constructeur 12 0.00178216
+ReseauTest.nouvelleTaille 12 0.00130347
+ReseauTest.rechercheCheminDijkstra 12 0.00130712
+---
